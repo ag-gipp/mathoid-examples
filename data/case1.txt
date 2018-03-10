@@ -1,0 +1,2 @@
+q=\mathbb C\cong\mathbb R[x]/(x^2+1)
+

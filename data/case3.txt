@@ -1,0 +1,1 @@
+q=\overline a=\mathrm{Re}(a)-\mathrm{Im}(a)\,\mathrm i
