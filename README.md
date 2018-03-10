@@ -1,4 +1,6 @@
-# Example configurations for the mathoid math rendering service
+# Example configurations for the mathoid math rendering service [![DOI](https://zenodo.org/badge/124666594.svg)](https://zenodo.org/badge/latestdoi/124666594)
+
+
 
 For MediaWiki installations with special needs for math rendering this repository provides example configuration files.
 
